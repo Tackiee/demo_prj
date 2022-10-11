@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: 55a18d6aa5ec0ba46923af9439f3fc11
+  - enabled: 1
+    path: Assets/Scenes/JumpGameScene.unity
+    guid: e9a43d5c846bf854ca616e1eef0b3ae9
+  - enabled: 1
+    path: Assets/Scenes/MusicPlayScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/SerialTestScene.unity
+    guid: 9ef25dd727f00ea4797ea740d89f4416
+  m_configObjects: {}
